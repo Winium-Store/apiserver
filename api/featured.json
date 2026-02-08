@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "OBS Studio",
+        "category": "Apps",
+        "version": "30.0.0",
+        "size": "128 MB",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg",
+        "description": "Мощный инструмент для стриминга и записи видео с экрана.\n\nОсновные функции:\n— Захват игр и приложений в 60 FPS.\n— Поддержка сцен, веб-камер и микрофонов.\n— Прямые трансляции на Twitch, YouTube и VK.\n— Полностью бесплатно и без водяных знаков.",
+        "download_url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.0.4-Windows-x64-Installer.exe"
+    },
+    {
+        "id": 2,
+        "name": "Blender",
+        "category": "Apps",
+        "version": "4.0",
+        "size": "310 MB",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg",
+        "description": "Профессиональный пакет для создания 3D-графики и анимации.\n\nВозможности:\n— Моделирование, скульпптинг и текстурирование.\n— Мощный движок рендеринга Cycles.\n— Видеомонтаж и создание 2D-анимации.\n— Огромное сообщество и тысячи бесплатных плагинов.",
+        "download_url": "https://www.blender.org/download/release/Blender5.0/blender-5.0.1-windows-x64.msi/"
+    },
+    {
+        "id": 3,
+        "name": "DDNet",
+        "category": "Games",
+        "version": "17.4",
+        "size": "35 MB",
+        "icon_url": "https://ddnet.org/themes/default/favicon.ico",
+        "description": "DDraceNetwork — уникальный кооперативный платформер.\n\nОсобенности:\n— Проходите сложные карты вместе с друзьями.\n— Управляйте маленьким колобком с помощью крюка.\n— Глобальные рейтинги и тысячи карт от сообщества.\n— Полностью открытый исходный код.",
+        "download_url": "https://ru.ddnet.org/downloads/DDNet-19.7-win64.zip"
+    },
+    {
+        "id": 4,
+        "name": "OSU! Lazer",
+        "category": "Games",
+        "version": "latest",
+        "size": "166 MB",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Osu%21_Logo_2016.svg",
+        "description": "Новое поколение легендарной ритм-игры OSU!\n\nЧто нового:\n— Полностью переработанный графический движок.\n— Кроссплатформенная поддержка и новый интерфейс.\n— Миллионы пользовательских карт под любую музыку.\n— Улучшенная отзывчивость и новые игровые моды.",
+        "download_url": "https://github.com/ppy/osu/releases/download/2026.130.0-tachyon/install.exe"
+    },
+    {
+        "id": 5,
+        "name": "qBittorrent",
+        "category": "Apps",
+        "version": "4.6.0",
+        "size": "39 MB",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/QBittorrent_logo.svg",
+        "description": "Лучший свободный торрент-клиент без рекламы и спама.\n\nПреимущества:\n— Встроенный поиск торрентов.\n— Поддержка последовательной закачки (просмотр фильма во время загрузки).\n— Минимальное потребление оперативной памяти.\n— Полный контроль над скоростью и приоритетами.",
+        "download_url": "https://www.softportal.com/en/qbittorrent/1/getsoft"
+    },
+    {
+        "id": 6,
+        "name": "Legacy Launcher",
+        "category": "Games",
+        "version": "latest",
+        "size": "111 MB",
+        "icon_url": "https://llaun.ch/favicon.ico",
+        "description": "Надежный и быстрый лаунчер для любителей Minecraft.\n\nФункции:\n— Доступ ко всем версиям игры: от классики до новейших Snapshots.\n— Удобная установка модов (Forge, Fabric, Quilt) в один клик.\n— Тонкая настройка памяти и параметров запуска.\n— Стабильная работа на любых системах.",
+        "download_url": "https://dl.llaun.ch/legacy/installer"
+    }
+]
